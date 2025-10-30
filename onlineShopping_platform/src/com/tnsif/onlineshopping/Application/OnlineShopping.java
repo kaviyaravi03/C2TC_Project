@@ -1,5 +1,7 @@
 package com.tnsif.onlineshopping.Application;
 
+import com.tnsif.onlineshopping.entity.*;
+import com.tnsif.onlineshopping.service.*;
 import java.util.*;
 
 public class OnlineShopping {
